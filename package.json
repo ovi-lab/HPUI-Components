@@ -1,7 +1,7 @@
 {
-    "name": "ubc.ok.ovilab.hpui-core",
-    "version": "0.2.0",
-    "displayName": "HPUI Core",
+    "name": "ubc.ok.ovilab.hpui-components",
+    "version": "0.1.0",
+    "displayName": "HPUI Components",
     "description": "Core functionality of HPUI",
     "unity": "2021.3",
     "dependencies": {
@@ -12,7 +12,7 @@
       "com.unity.burst": "1.8.18"
     },
     "license": "MIT",
-    "licenseUrl": "https://github.com/ovi-lab/HPUI-Core/blob/master/LICENSE",
+    "licenseUrl": "https://github.com/ovi-lab/HPUI-components/blob/master/LICENSE",
     "author": {
         "name": "Shariff Faleel",
         "email": "shariff.mfa@outlook.com",
@@ -22,11 +22,6 @@
     "scopedRegistries": [
     ],
     "samples": [
-      {
-        "displayName": "Sample scene with HPUI",
-        "description": "Sample scene with HPUI setup. Depends on the following samples in the <a href=\"https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html\">XR Interaction Toolkit</a>:\n • <a href=\"https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/samples-hands-interaction-demo.html\">Hands Interaction Demo</a>\n • <a href=\"https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/samples-xr-device-simulator.html\">XR Device Simulator</a>",
-        "path": "Samples~/SampleHPUIScene/"
-      }
     ],
     "hideInEditor": false
 }
