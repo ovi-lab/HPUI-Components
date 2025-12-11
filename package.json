@@ -2,7 +2,7 @@
     "name": "ubc.ok.ovilab.hpui-components",
     "version": "0.1.0",
     "displayName": "HPUI Components",
-    "description": "Core functionality of HPUI",
+    "description": "Components that use HPUI",
     "unity": "2021.3",
     "dependencies": {
       "com.unity.xr.hands": "1.5.0-pre.3",
